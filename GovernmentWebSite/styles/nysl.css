@@ -1,0 +1,28 @@
+#logo {
+	width: 50px;
+}
+
+#logoHouse {
+	width: 200px;
+	vertical-align: middle;
+	margin-top: 100px;
+}
+
+#mail {
+	width: 30px;
+}
+
+#senate-data td {
+	text-align: justify;
+}
+
+div{
+	margin-bottom: 5px;
+}
+p{
+	text-align: justify;
+}
+
+body{
+	background-color: lightcyan !important;
+}
